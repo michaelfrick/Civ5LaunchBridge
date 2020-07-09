@@ -3,7 +3,7 @@ Enables you to just start the game without the launcher dropping in background o
 
 # What it does
 1. Start the launcher
-2. Wait for 15 sec till to make sure the launcher had time to start and display
+2. Wait for 15 sec to make sure the launcher had time to start and display
 3. Put the Launcher top/left of your monitor setup and put it on top
 4. Simulate a click with an offset to hit the Play-Button
 
